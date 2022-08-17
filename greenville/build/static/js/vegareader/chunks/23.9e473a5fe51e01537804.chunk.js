@@ -1,1 +1,0 @@
-(window.webpackJsonpvegareader=window.webpackJsonpvegareader||[]).push([[23],{1494:function(e,a,r){"use strict";r.r(a);var t=r(0),n=r.n(t),d=r(613),w=r(1),i=function(e){var a=e.drawerState,r=e.isCardView;return n.a.createElement(n.a.Fragment,null,n.a.createElement(d.VegaResources,{drawerState:a,isCardView:r}))};i.defaultProps={drawerState:w.X,isCardView:!1},a.default=i}}]);
